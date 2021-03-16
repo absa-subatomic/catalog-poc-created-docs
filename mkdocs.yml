@@ -1,0 +1,8 @@
+site_name: "catalog-poc-created-docs"
+site_description: "na"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

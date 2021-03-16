@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "catalog-poc-created-docs"
+  description: "na"
+  annotations:
+    github.com/project-slug: absa-subatomic/catalog-poc-created-docs
+    backstage.io/techdocs-ref: url:https://github.com/absa-subatomic/catalog-poc-created-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "subatomic"
